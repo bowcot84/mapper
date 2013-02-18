@@ -1,0 +1,9 @@
+{
+  "name":"s2_skeleton",
+  "version":"0.0.0",
+  "commit":"dd88eee11ac0dda506dc283764d574056140bb4d",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/bowcot84/s2_skeleton.git"
+  }
+}
